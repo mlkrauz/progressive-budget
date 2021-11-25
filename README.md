@@ -1,7 +1,7 @@
 # progressive-budget
 
 ## Description
-This is a placeholder repository. This may become a full project one day, but probably not.
+This is a simple budgeting app that can work both online and offline.
 
 ## Table of Contents
 * [Installation](#installation)
@@ -11,16 +11,16 @@ This is a placeholder repository. This may become a full project one day, but pr
 * [Tests](#tests)
 * [Developers and Contact Info](#developers-and-contact-info)
 
-
+![Snapshot of the running budget app!](/assets/Preview.png)
 
 ## Installation
-
+Please clone this repo and install.
 
 ## Usage
-
+This app can be ran at [https://krauz-pwa-budget.herokuapp.com/](https://krauz-pwa-budget.herokuapp.com/)!
 
 ## License
-
+MIT
 
 ## Contributing
 Contributions are not open at this time.
